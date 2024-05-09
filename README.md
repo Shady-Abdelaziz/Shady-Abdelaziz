@@ -1,14 +1,16 @@
-# Welcome to Shady Abdelaziz's GitHub Profile!
+<h1 align="center">Hi, I'm Shady Abdelaziz 👋</h1>
+<p align="center">
+    <a href="mailto:Shady.abdelaziz07@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836?style=flat&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/shady-abdelaziz-6bba56209/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
 
-## About Me
+<img src="[https://github.com/your-username/your-username/blob/master/profile-img.png](https://github.com/Shady-Abdelaziz/Shady-Abdelaziz/blob/main/profile-img.png)" align="right" width="25%"/>
 
-Hello, I'm Shady Abdelaziz, a passionate Data Scientist with a keen interest in leveraging data to drive insights and solve complex problems.
+I'm a passionate Data Scientist who enjoys using data to drive insights and solve complex problems. Some technologies I work with include Python, SQL, and Power BI.
 
-## Skills
-
-- **Programming Languages:** Python
-- **Database:** SQL
-- **Visualization Tools:** Power BI
+- 🔭 I'm currently working as a Data Scientist
+- 💻 I'm proficient in Python, SQL, and Power BI
+- 📊 I enjoy analyzing data and creating meaningful visualizations
 
 ## Contact Me
 
