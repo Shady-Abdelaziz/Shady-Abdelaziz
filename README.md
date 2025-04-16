@@ -8,7 +8,7 @@
 
 I'm a passionate data/ML professional with expertise in developing, optimizing, and deploying machine learning and deep learning models; proficient in data analysis, and advanced techniques in NLP and computer vision..
 
-- 🔭 I'm currently working as a Data Scientist
+- 🔭 I'm currently working as a Ai Engineer
 - 💻 I'm proficient in Python, SQL, and Power BI
 - 📊 I enjoy analyzing data and creating meaningful visualizations
 
