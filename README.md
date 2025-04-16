@@ -6,7 +6,7 @@
 
 <img src="https://github.com/Shady-Abdelaziz/Shady-Abdelaziz/blob/main/profile-img.png" align="right" width="25%"/>
 
-I'm a passionate Data Scientist who enjoys using data to drive insights and solve complex problems. Some technologies I work with include Python, SQL, and Power BI.
+I'm a passionate data/ML professional with expertise in developing, optimizing, and deploying machine learning and deep learning models; proficient in data analysis, and advanced techniques in NLP and computer vision..
 
 - 🔭 I'm currently working as a Data Scientist
 - 💻 I'm proficient in Python, SQL, and Power BI
